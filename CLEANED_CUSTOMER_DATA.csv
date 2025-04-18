@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,country,postal_code,company_name,postal_code_invalid,email_invalid
+1,Curtice,Donaghy,cdonaghy0@twitpic.com,661-950-2430,7031 Mendota Terrace,Lancaster,California,United States,93584,Tagopia,False,False
+2,Avictor,Tomasz,atomasz1@istockphoto.com,717-515-1930,08476 Sommers Way,Harrisburg,Pennsylvania,United States,17126,Twimm,False,False
+3,Vernice,Kennealy,vkennealy2@china.com.cn,304-368-6014,85 Sommers Pass,Charleston,West Virginia,United States,25305,Eare,False,False
+4,Dilly,Eadington,deadington3@upenn.edu,402-371-7923,1311 Prairieview Road,Lincoln,Nebraska,United States,68524,Voomm,False,False
+5,Peyter,Titmarsh,ptitmarsh4@samsung.com,212-120-5901,226 Vera Center,New York City,New York,United States,10249,Twiyo,False,False
+6,Flin,Bateup,fbateup5@nbcnews.com,414-802-9812,91111 Chive Trail,Milwaukee,Wisconsin,United States,53285,Rooxo,False,False
+7,Leonelle,Keaveney,lkeaveney6@vimeo.com,720-567-4564,7277 Oneill Place,Aurora,Colorado,United States,80015,Centimia,False,False
+8,Alina,Endicott,aendicott7@reference.com,281-994-5650,49796 Portage Place,Houston,Texas,United States,77045,Oyoba,False,False
+9,Kylie,Matchitt,kmatchitt8@bizjournals.com,626-516-5410,8064 Bonner Point,Pasadena,California,United States,91103,Mynte,False,False
+10,Killian,Ceschini,kceschini9@auda.org.au,806-790-4222,658 Norway Maple Junction,Lubbock,Texas,United States,79452,Youspan,False,False
+11,Felicia,Duham,fduhama@liveinternet.com,912-558-3900,2039 Reindahl Place,Savannah,Georgia,United States,31422,Twitterlist,False,False
+12,Ynes,Waren,ywarenb@trellian.com,309-384-3579,97012 Mitchell Hill,Peoria,Illinois,United States,61635,Photofeed,False,False
+13,Janos,Gilardoni,jgilardonic@usa.gov,408-876-1450,7 Stang Circle,San Jose,California,United States,95150,Twinder,False,False
+14,Danie,Sher,dsherd@fastcompany.com,336-589-7303,60 Thackeray Road,High Point,North Carolina,United States,27264,Cogilith,False,False
+15,Morrie,Crellin,mcrelline@wordpress.com,225-619-9788,39 Caliangt Junction,Baton Rouge,Louisiana,United States,70815,Omba,False,False
+16,Ave,Skoyles,askoylesf@ifeng.com,813-325-2797,13244 Haas Way,Tampa,Florida,United States,33610,Trupe,False,False
+17,Flemming,Heinig,fheinigg@answers.com,561-105-8472,27 Dahle Court,West Palm Beach,Florida,United States,33421,Edgewire,False,False
+18,Morrie,Crellin,mcrelline@wordpress.com,804-142-5691,39 Caliangt Junction,Baton Rouge,Louisiana,United States,70815,Omba,False,False
+19,Lucienne,Broszkiewicz,lbroszkiewiczh@squidoo.com,608-184-1608,91947 8th Avenue,Madison,Wisconsin,United States,53705,Skaboo,False,False
+20,Berny,Leaver,bleaveri@si.edu,281-178-8426,8 Park Meadow Park,Houston,Texas,United States,77015,Photofeed,False,False
+21,Joye,Vass,jvassj@last.fm,304-599-6246,7 Delladonna Court,Charleston,West Virginia,United States,25326,Feedbug,False,False
+22,Curtis,Donaghy,cdonaghy0@twitpic.com,661-950-2430,7031 Mendota Terrace,Lancaster,California,United States,93584,Tagopia,False,False
+23,Letisha,Farquhar,lfarquhark@list-manage.com,213-320-7535,161 Dapin Street,Los Angeles,California,United States,90055,Skipstorm,False,False
+24,Priscilla,Yeell,pyeelll@i2i.jp,312-361-8803,9 Esch Circle,Chicago,Illinois,United States,60641,Geba,False,False
+25,Audie,Hellikes,ahellikesm@seattletimes.com,412-436-3067,9 Fieldstone Road,Pittsburgh,Pennsylvania,United States,15286,Meetz,False,False
+26,Tory,MacTerlagh,tmacterlaghn@dmoz.org,303-498-0176,73472 Packers Parkway,Englewood,Colorado,United States,80150,Voolith,False,False
+27,Luciana,Sandbatch,lsandbatcho@usda.gov,712-799-4372,1 Crest Line Parkway,Sioux City,Iowa,United States,51105,Jabbercube,False,False
+28,Karolina,Abad,kabadp@marriott.com,806-666-4267,696 Londonderry Plaza,Lubbock,Texas,United States,79491,Demizz,False,False
+29,Philipa,Duggleby,pdugglebyq@abc.net.au,215-625-9859,9 Village Green Circle,Philadelphia,Pennsylvania,United States,19160,Jaxbean,False,False
+30,Neall,Elson,nelsonr@archive.org,518-967-8173,406 Kedzie Center,Albany,New York,United States,12247,Not Provided,False,False
+31,Cecil,Taw,ctaws@drupal.org,501-927-5755,3078 Rockefeller Road,Little Rock,Arkansas,United States,72209,Fivechat,False,False
+32,Natal,Fraczkiewicz,nfraczkiewiczt@netlog.com,410-564-4516,222 Meadow Valley Trail,Baltimore,Maryland,United States,21265,Flashdog,False,False
+33,Nicolais,Gush,ngushu@indiatimes.com,334-484-2156,41506 Harper Circle,Montgomery,Alabama,United States,36109,Kimia,False,False
+34,Lew,Otham,lothamv@devhub.com,234-526-7774,2 Meadow Valley Way,Canton,Ohio,United States,44760,Latz,False,False
+35,Neall,Elson,unknown@example.com,518-967-8173,406 Kedzie Center,Albany,New York,United States,12247,Gigashots,False,False
+36,Zola,Cleaton,zcleatonw@last.fm,908-229-2018,66039 Spohn Pass,Elizabeth,New Jersey,United States,7208,Youbridge,True,False
+37,Piotr,Acome,pacomex@sfgate.com,412-267-2446,825 Kenwood Terrace,Pittsburgh,Pennsylvania,United States,15240,Trilith,False,False
+38,Briny,Cavy,bcavyy@issuu.com,314-745-4360,17 Judy Way,Saint Louis,Missouri,United States,63121,Oyoyo,False,False
+39,Reinhold,Hendrichs,rhendrichsz@skype.com,502-768-5715,62174 Corben Trail,Louisville,Kentucky,United States,40287,Avaveo,False,False
+40,Luisa,Byrch,lbyrch10@networkadvertising.org,202-348-1813,914 Garrison Avenue,Washington,District of Columbia,United States,20260,Twinte,False,False
+41,Sharity,Vogl,svogl11@sciencedaily.com,503-363-1840,3927 Stephen Avenue,Portland,Oregon,United States,97201,Ozu,False,False
+42,Felicia,Duham,fduhama@liveinternet.com,912-558-3900,123 New Avenue,Chicago,Illinois,United States,60641,Twitterlist,False,False
+43,Kerrie,Leuchars,kleuchars12@timesonline.co.uk,305-317-7445,0380 Saint Paul Way,Miami,Florida,United States,33175,Jayo,False,False
+44,Arlee,Yoxall,ayoxall13@blinklist.com,615-127-0782,4 Spaight Terrace,Nashville,Tennessee,United States,37220,Zoonder,False,False
+45,Bobby,Lawrance,blawrance14@goo.ne.jp,812-822-5071,036 Main Point,Bloomington,Indiana,United States,47405,Aimbu,False,False
+46,Jaye,Colaco,jcolaco15@dailymotion.com,915-490-7075,23590 Sutherland Hill,El Paso,Texas,United States,79945,Yata,False,False
+47,Mason,Deware,mdeware16@dyndns.org,361-927-5706,92 Barby Circle,Corpus Christi,Texas,United States,78415,Mita,False,False
+48,Ciro,McCoid,cmccoid17@cafepress.com,817-333-2626,4 7th Avenue,Fort Worth,Texas,United States,76147,Oodoo,False,False
+49,Luisa,Claude,lbyrch10@networkadvertising.org,202-348-1813,914 Garrison Avenue,Washington,District of Columbia,United States,20260,Twinte,False,False
+50,Dan,Cours,dcours18@google.it,941-681-8954,627 Jackson Crossing,Bradenton,Florida,United States,34282,Dablist,False,False
